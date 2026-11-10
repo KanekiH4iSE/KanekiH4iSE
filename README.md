@@ -131,8 +131,7 @@ Multi-speaker group voice AI API: an agent that follows a conversation with seve
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=KanekiH4iSE&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0b1f17&title_color=00e08a&icon_color=00e08a&count_private=true" alt="stats"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KanekiH4iSE&layout=compact&theme=tokyonight&hide_border=true&bg_color=0b1f17&title_color=00e08a" alt="languages"/>
+
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=KanekiH4iSE&theme=tokyonight&hide_border=true&background=0b1f17&ring=00e08a&fire=00e08a&currStreakLabel=00e08a" alt="streak"/>
 
