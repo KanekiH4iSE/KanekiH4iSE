@@ -1,63 +1,61 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:07130e,100:00e08a&height=210&section=header&text=Kaneke&fontSize=68&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Mirzobehruz%20Shaidov&descSize=18&descAlignY=60" width="100%" alt="header"/>
-
-<a href="https://github.com/KanekiH4iSE">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&pause=1100&color=00E08A&center=true&vCenter=true&width=640&lines=Software+Engineering+%40+UE+Potsdam;Hackathon+winner+%E2%80%94+EuroTech+%C3%97+Hong+Kong;I+ship+fast.+Weekend+prototype+%E2%86%92+live+URL.;Tajikistan+%E2%86%92+Berlin;Security-minded.+AI-assisted.+Anime-fueled." alt="typing"/>
-</a>
+<img src="assets/banner.svg" alt="Kaneke: Software Engineering, UE Potsdam" width="100%"/>
 
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mirzobehruz-shaidov)
 [![Email](https://img.shields.io/badge/Email-00e08a?style=for-the-badge&logo=gmail&logoColor=black)](mailto:shaidovmirzo@gmail.com)
-![Berlin](https://img.shields.io/badge/Berlin-🇩🇪-0b1f17?style=for-the-badge)
-![Profile views](https://komarev.com/ghpvc/?username=KanekiH4iSE&style=for-the-badge&color=00e08a&label=VIEWS)
+![Berlin](https://img.shields.io/badge/Berlin-open%20to%20internships-0b1f17?style=for-the-badge&labelColor=00e08a&color=0b1f17)
+
+<br/>
+
+<img src="assets/terminal.svg" alt="whoami" width="760"/>
 
 </div>
 
----
+<br/>
 
-```python
-class Kaneke:
-    name      = "Mirzobehruz Shaidov"
-    age       = 19
-    from_     = "Khujand, Tajikistan 🇹🇯"
-    lives_in  = "Berlin 🇩🇪"
-    studies   = "B.Sc. Software Engineering @ UE Potsdam (2028)"
-    focus     = ["AI agents", "security", "fast full-stack products", "UI that doesn't look like AI slop"]
-    languages = {"Tajik": "native", "Russian": "native", "English": "C1", "German": "B2", "Turkish": "A1"}
-    fuel      = ["anime", "hackathons", "shipping on Friday"]
+## `// 01`  HIGHLIGHTS
 
-    def motto(self):
-        return "Make it work, make it live, then make it beautiful."
-```
+<img src="assets/stats.svg" alt="1 hackathon win, 5 hackathon builds, 3 cities, 5 languages" width="100%"/>
 
-## 🏆 Highlights
+> 🏆 **Winner, EuroTech Federation × Hong Kong Talent Engage Hackathon (Munich, 2026).** Our team built **CrossLens**: alternative credit scoring for foreign SMEs that Hong Kong banks can't see. The prize: a winners' tour through **Hong Kong, Shenzhen and Guangzhou**.
 
-| | |
-|---|---|
-| 🥇 **Winner, EuroTech Federation × Hong Kong Talent Engage Hackathon (2026)** | Built **CrossLens / FideScore**, credit and ownership verification for foreign SMEs entering Hong Kong. Won an invitation to the Hong Kong & Greater Bay Area winners' tour (Sept 2026). |
-| 🎙️ **telli × LiveKit Voice AI Hackathon** | **Quorum**: a multi-speaker group voice AI API (LiveKit, Deepgram, Cartesia, Claude). |
-| ⚡ **KI-Hackathon Energie** | **Plankton PV**: an AI solar-planning assistant for the German market (React, Express, Claude API). |
-| 🎨 **Hyperbloom UI/UX & Web Design Hackathon** | **SafePause**: an app that adds a pause before risky bank transfers. Research + frontend, team of 3. |
-| 🧠 **Small Academy of Sciences of Tajikistan** | Member. Math olympiad medalist (city level, 2023). |
+## `// 02`  HACKATHONS
 
-## 🚀 Things I've built
+| Event | What we built | Outcome |
+|---|---|---|
+| **EuroTech × Hong Kong Talent Engage** | CrossLens, credit scoring for SMEs entering Hong Kong | 🏆 **Winner** (FinTech track and overall) |
+| **KI-Hackathon Energie** | Plankton PV, AI solar-planning assistant for Germany | Working demo, built overnight |
+| **telli × LiveKit Voice AI** | Quorum, a voice AI API for group conversations | Working prototype |
+| **Hyperbloom UI/UX & Web Design** | SafePause, a pause before risky bank transfers | Team of 3, live site |
+| **Graphs Gone Wild (Neo4j)** | AutopsyGraph, forensics for AI agents | Built in 5.5 hours |
+
+## `// 03`  THINGS I'VE BUILT
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
 ### 🎲 [Магнат](https://github.com/KanekiH4iSE/Monopoly)
-Online multiplayer Monopoly-style game for 2–10 players. Original theme, join from any device, real-time, **live and played by friends**.
-<br/>`Node.js` `WebSockets` `Render`
+![live](https://img.shields.io/badge/status-live-00e08a?style=flat-square&labelColor=07140f)
+![multiplayer](https://img.shields.io/badge/real--time-multiplayer-0b6e4a?style=flat-square&labelColor=07140f)
+
+Online multiplayer Monopoly-style game with an original theme. Join from any device. Deployed on Render and played by friends.
+
+`Node.js` `WebSockets` `Render`
 
 </td>
 <td width="50%" valign="top">
 
 ### 🎰 [AniCase](https://github.com/KanekiH4iSE/Anime)
-CS-style case roulette for choosing what anime to watch: every spin eliminates one title until a winner is left. RU/EN, list import from Shikimori / AniList / MAL, rematch slot.
-<br/>`JavaScript` `Vercel`
+![live](https://img.shields.io/badge/status-live-00e08a?style=flat-square&labelColor=07140f)
+![bilingual](https://img.shields.io/badge/RU%20%2F%20EN-0b6e4a?style=flat-square&labelColor=07140f)
+
+CS-style case roulette that picks what anime to watch: every spin eliminates one title. List import from Shikimori, AniList and MAL, plus a rematch slot.
+
+`JavaScript` `Vercel`
 
 </td>
 </tr>
@@ -65,15 +63,44 @@ CS-style case roulette for choosing what anime to watch: every spin eliminates o
 <td width="50%" valign="top">
 
 ### ⏸️ [SafePause](https://github.com/KanekiH4iSE/Ausl-nder-Team)
-Friction as a feature: a design-first fintech app that makes you stop before an impulsive or scam-driven transfer. Figma file + adaptive coded version.
-<br/>`Figma` `React` `Vercel`
+![hackathon](https://img.shields.io/badge/hackathon-team%20of%203-0b6e4a?style=flat-square&labelColor=07140f)
+![live](https://img.shields.io/badge/status-live-00e08a?style=flat-square&labelColor=07140f)
+
+Friction as a feature: a fintech app that makes you stop before an impulsive or scam-driven transfer. My part: research and frontend, Figma design plus the adaptive coded version.
+
+`Figma` `React` `Vercel`
+
+</td>
+<td width="50%" valign="top">
+
+### 🔬 [AutopsyGraph](https://github.com/KanekiH4iSE/autopsygraph)
+![hackathon](https://img.shields.io/badge/hackathon-5.5h-0b6e4a?style=flat-square&labelColor=07140f)
+
+Records another AI agent's runs as a knowledge graph in Neo4j and explains *why* it failed. Built at the Graphs Gone Wild hackathon.
+
+`Python` `FastAPI` `Neo4j` `MCP`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🎙️ Quorum
+![hackathon](https://img.shields.io/badge/hackathon-voice%20AI-0b6e4a?style=flat-square&labelColor=07140f)
+
+Multi-speaker group voice AI API: an agent that follows a conversation with several people at once. Built at the telli × LiveKit hackathon.
+
+`LiveKit` `Deepgram` `Cartesia` `Claude`
 
 </td>
 <td width="50%" valign="top">
 
 ### 🛰️ [Last Orbit](https://github.com/KanekiH4iSE/last-orbit)
-A browser survival game, built as a personal product for the GUI Design & Web Optimization course and iterated through heuristic evaluation and redesign.
-<br/>`JavaScript` `UX`
+![course](https://img.shields.io/badge/UX-iterated-0b6e4a?style=flat-square&labelColor=07140f)
+
+Browser survival game, built as a personal product and pushed through heuristic evaluation and redesign.
+
+`JavaScript` `UX`
 
 </td>
 </tr>
@@ -81,71 +108,46 @@ A browser survival game, built as a personal product for the GUI Design & Web Op
 <td width="50%" valign="top">
 
 ### 🏦 Taler
-PHP/MySQL banking admin system: atomic money transfers, statements, legacy CSV import. Built as a Scrum team project, found and implemented the code behind Jira tickets that were marked "Done" and had none.
-<br/>`PHP` `PDO` `MySQL` `Scrum`
+![team](https://img.shields.io/badge/Scrum-team%20project-0b6e4a?style=flat-square&labelColor=07140f)
+
+PHP/MySQL banking admin system: atomic transfers, statements, legacy CSV import. I found Jira tickets marked "Done" with no code behind them and implemented them.
+
+`PHP` `PDO` `MySQL`
 
 </td>
 <td width="50%" valign="top">
 
 ### 🖼️ WikiArt Style Classifier
-Custom CNN vs EfficientNetV2-S vs ConvNeXt-Tiny on art-style classification, explained with **Grad-CAM** and **SHAP**.
-<br/>`Python` `PyTorch` `Kaggle`
+![research](https://img.shields.io/badge/ML-explainable-0b6e4a?style=flat-square&labelColor=07140f)
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+Custom CNN vs EfficientNetV2-S vs ConvNeXt-Tiny on art-style classification, explained with Grad-CAM and SHAP.
 
-### 🔬 [AutopsyGraph](https://github.com/KanekiH4iSE/autopsygraph)
-Forensics for AI agents: records another agent's runs as a knowledge graph in Neo4j and explains *why* it failed. Built in 5.5 hours at the **Graphs Gone Wild** Neo4j AI hackathon.
-<br/>`Python` `FastAPI` `Neo4j` `MCP`
-
-</td>
-<td width="50%" valign="top">
-
-### 🎙️ Quorum
-Multi-speaker group voice AI API: an agent that follows a conversation with several people at once. Built at the telli × LiveKit Voice AI Hackathon.
-<br/>`LiveKit` `Deepgram` `Cartesia` `Claude`
+`Python` `PyTorch` `Kaggle`
 
 </td>
 </tr>
 </table>
 
-## 🧰 Stack
+## `// 04`  STACK
 
 <div align="center">
 
-![Python](https://skillicons.dev/icons?i=py,fastapi,js,ts,react,vite,nodejs,php,mysql,git,github,figma,vercel&theme=dark)
-
-`Claude Code` · `Claude API` · `LiveKit` · `Neo4j` · `Ollama` · `OWASP / Juice Shop` · `Scrum / Jira`
+![stack](https://skillicons.dev/icons?i=py,fastapi,java,spring,js,ts,react,vite,nodejs,php,mysql,postgres,docker,git,github,figma,vercel&theme=dark)
 
 </div>
 
-## 🔐 What I care about
+## `// 05`  CURRENTLY
 
-- **Security first-hand.** Incident analysis of the MOVEit breach, a comparative study of TLS 1.3 / Signal / AWS SigV4, Juice Shop challenges, and a vulnerability-scanning tool I'm building.
-- **AI as a power tool, not a crutch.** I use agents to move 10× faster, then read every diff.
-- **Design that has taste.** Dark, calm, intentional. If it looks like a template, I redo it.
+- 🔎 Looking for a **Werkstudent or internship** (Backend / Python / Java / AI), Berlin or remote
+- 🧪 Exploring how to debug AI agents: [AutopsyGraph](https://github.com/KanekiH4iSE/autopsygraph)
+- 🎲 Keeping [Магнат](https://github.com/KanekiH4iSE/Monopoly) alive and fun
 
-## 📊 Stats
-
-<div align="center">
-
-
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=KanekiH4iSE&theme=tokyonight&hide_border=true&background=0b1f17&ring=00e08a&fire=00e08a&currStreakLabel=00e08a" alt="streak"/>
-
-</div>
-
-## 🤝 Let's build something
-
-Open to **internships**, **hackathon teams** and product collaborations in AI, security and fintech: Germany, Europe, Asia.
-The fastest way is e-mail or LinkedIn above.
+<br/>
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:07130e,100:00e08a&height=110&section=footer" width="100%" alt="footer"/>
+**Tajik · Russian** (native) &nbsp;·&nbsp; **English** C1 &nbsp;·&nbsp; **German** B2 &nbsp;·&nbsp; **Turkish** A1
 
-*"From Khujand to Berlin, one shipped prototype at a time."*
+<sub>From Khujand to Berlin, one shipped prototype at a time.</sub>
 
 </div>
