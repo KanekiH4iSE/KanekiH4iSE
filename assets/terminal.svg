@@ -1,13 +1,13 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="860" height="300" viewBox="0 0 860 300">
 <style>
 text{font-family:'JetBrains Mono','Fira Code',Consolas,'SFMono-Regular',Menlo,monospace;font-size:16px}
-.t{fill:#d6efe3}.p{fill:#00e08a}.ok{fill:#00e08a}.k{fill:#79b79f}.v{fill:#e8fff5}
+.t{fill:#f4f1f1}.p{fill:#e5243b}.ok{fill:#f4f1f1}.k{fill:#a39a9b}.v{fill:#ffffff}
 .l{animation:in .35s ease-out both}
 @keyframes in{from{opacity:0;transform:translateX(-8px)}to{opacity:1;transform:none}}
 .blink{animation:b 1s steps(1) infinite}@keyframes b{50%{opacity:0}}
 </style>
-<rect x="1" y="1" width="858" height="298" rx="12" fill="#07140f" stroke="#00e08a" stroke-opacity=".3"/>
-<path d="M1 13a12 12 0 0 1 12-12h834a12 12 0 0 1 12 12V40H1z" fill="#0c2218"/>
+<rect x="1" y="1" width="858" height="298" rx="12" fill="#0b0809" stroke="#e5243b" stroke-opacity=".3"/>
+<path d="M1 13a12 12 0 0 1 12-12h834a12 12 0 0 1 12 12V40H1z" fill="#1a0b0d"/>
 <circle cx="26" cy="21" r="6" fill="#ff5f56"/><circle cx="48" cy="21" r="6" fill="#ffbd2e"/><circle cx="70" cy="21" r="6" fill="#27c93f"/>
 <text x="430" y="26" text-anchor="middle" class="k" style="font-size:13px">kaneke@berlin: ~/profile</text>
 <g>
