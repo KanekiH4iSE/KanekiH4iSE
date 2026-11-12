@@ -1,34 +1,37 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300">
 <defs>
-<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#06120d"/><stop offset="1" stop-color="#0b2a1d"/></linearGradient>
-<radialGradient id="glow" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="#00e08a" stop-opacity=".5"/><stop offset="1" stop-color="#00e08a" stop-opacity="0"/></radialGradient>
-<pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#00e08a" stroke-opacity=".08"/></pattern>
-<linearGradient id="scan" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#00e08a" stop-opacity="0"/><stop offset=".5" stop-color="#00e08a" stop-opacity=".3"/><stop offset="1" stop-color="#00e08a" stop-opacity="0"/></linearGradient>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#140808"/><stop offset="1" stop-color="#050505"/></linearGradient>
+<radialGradient id="glow" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="#e5243b" stop-opacity=".45"/><stop offset="1" stop-color="#e5243b" stop-opacity="0"/></radialGradient>
+<pattern id="scr" width="26" height="26" patternUnits="userSpaceOnUse" patternTransform="rotate(-28)"><path d="M0 13H26" stroke="#ffffff" stroke-opacity=".035"/></pattern>
+<linearGradient id="scan" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#e5243b" stop-opacity="0"/><stop offset=".5" stop-color="#e5243b" stop-opacity=".18"/><stop offset="1" stop-color="#e5243b" stop-opacity="0"/></linearGradient>
 <clipPath id="c"><rect width="1200" height="300" rx="14"/></clipPath>
-<filter id="blur" x="-20%" y="-50%" width="140%" height="200%"><feGaussianBlur stdDeviation="9"/></filter>
 </defs>
 <style>
 text{font-family:'JetBrains Mono','Fira Code',Consolas,'SFMono-Regular',Menlo,monospace}
-.dim{fill:#79b79f;font-size:14px}.acc{fill:#00e08a}
+.dim{fill:#a39a9b;font-size:14px}.acc{fill:#e5243b}
 .blink{animation:b 1s steps(1) infinite}@keyframes b{50%{opacity:0}}
-.pulse{animation:p 2s ease-in-out infinite}@keyframes p{50%{opacity:.3}}
-.sweep{animation:s 7s linear infinite}@keyframes s{from{transform:translateX(-450px)}to{transform:translateX(1250px)}}
-.float{animation:f 9s ease-in-out infinite}@keyframes f{50%{transform:translateY(-14px)}}
+.pulse{animation:p 2s ease-in-out infinite}@keyframes p{50%{opacity:.25}}
+.scan{animation:s 5s linear infinite}@keyframes s{from{transform:translateY(-120px)}to{transform:translateY(320px)}}
+.g1{animation:g1 3.2s steps(1) infinite}@keyframes g1{0%,86%,100%{transform:translate(0,0)}88%{transform:translate(-6px,2px)}91%{transform:translate(5px,-1px)}94%{transform:translate(-3px,0)}}
+.g2{animation:g2 3.2s steps(1) infinite}@keyframes g2{0%,86%,100%{transform:translate(0,0);opacity:.0}88%{transform:translate(7px,-2px);opacity:.9}91%{transform:translate(-5px,1px);opacity:.9}94%{transform:translate(3px,0);opacity:.6}}
+.slash{stroke-dasharray:520;stroke-dashoffset:520;animation:d 1.4s .3s ease-out forwards}@keyframes d{to{stroke-dashoffset:0}}
 </style>
 <g clip-path="url(#c)">
 <rect width="1200" height="300" fill="url(#bg)"/>
-<rect width="1200" height="300" fill="url(#grid)"/>
-<g class="float"><circle cx="1010" cy="140" r="200" fill="url(#glow)"/><circle cx="170" cy="260" r="140" fill="url(#glow)" opacity=".5"/></g>
-<rect class="sweep" x="0" y="0" width="420" height="300" fill="url(#scan)"/>
+<rect width="1200" height="300" fill="url(#scr)"/>
+<circle cx="980" cy="120" r="230" fill="url(#glow)"/>
+<circle cx="160" cy="280" r="150" fill="url(#glow)" opacity=".45"/>
+<rect class="scan" x="0" y="0" width="1200" height="110" fill="url(#scan)"/>
 </g>
-<rect x="1" y="1" width="1198" height="298" rx="14" fill="none" stroke="#00e08a" stroke-opacity=".22"/>
-<g fill="none" stroke="#00e08a" stroke-width="2" stroke-opacity=".75"><path d="M22 52V22H52"/><path d="M1148 22H1178V52"/><path d="M22 248V278H52"/><path d="M1148 278H1178V248"/></g>
-<text x="66" y="46" class="dim">kaneke.dev // profile v2</text>
+<rect x="1" y="1" width="1198" height="298" rx="14" fill="none" stroke="#e5243b" stroke-opacity=".3"/>
+<g fill="none" stroke="#e5243b" stroke-width="2"><path d="M22 52V22H52"/><path d="M1148 22H1178V52"/><path d="M22 248V278H52"/><path d="M1148 278H1178V248"/></g>
+<text x="66" y="46" class="dim">kaneke.dev // profile v3</text>
 <text x="1134" y="46" class="dim" text-anchor="end">py · fastapi · java · react · neo4j</text>
-<text x="600" y="162" text-anchor="middle" font-size="92" font-weight="800" letter-spacing="14" fill="#00e08a" filter="url(#blur)" opacity=".55">KANEKE</text>
-<text x="600" y="162" text-anchor="middle" font-size="92" font-weight="800" letter-spacing="14" fill="#ffffff">KANEKE</text>
-<text x="600" y="206" text-anchor="middle" font-size="17" letter-spacing="7" class="acc">SOFTWARE ENGINEERING · UE POTSDAM</text>
-<circle class="pulse" cx="70" cy="262" r="5" fill="#00e08a"/>
+<text class="g2" x="600" y="160" text-anchor="middle" font-size="92" font-weight="800" letter-spacing="14" fill="#e5243b">KANEKE</text>
+<text class="g1" x="600" y="160" text-anchor="middle" font-size="92" font-weight="800" letter-spacing="14" fill="#f4f1f1">KANEKE</text>
+<path class="slash" d="M340 182 L860 170" stroke="#e5243b" stroke-width="4" stroke-linecap="round" fill="none"/>
+<text x="600" y="214" text-anchor="middle" font-size="17" letter-spacing="7" fill="#f4f1f1" fill-opacity=".85">SOFTWARE ENGINEERING · UE POTSDAM</text>
+<circle class="pulse" cx="70" cy="262" r="5" fill="#e5243b"/>
 <text x="86" y="267" class="dim">status : building<tspan class="blink acc"> _</tspan></text>
 <text x="1134" y="267" class="dim" text-anchor="end">winner · EuroTech × Hong Kong 2026</text>
 </svg>
