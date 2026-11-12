@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="170" viewBox="0 0 1200 170">
+<defs>
+<linearGradient id="card" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0c2218"/><stop offset="1" stop-color="#07140f"/></linearGradient>
+<linearGradient id="bar" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#00e08a"/><stop offset="1" stop-color="#00e08a" stop-opacity="0"/></linearGradient>
+</defs>
+<style>
+text{font-family:'JetBrains Mono','Fira Code',Consolas,'SFMono-Regular',Menlo,monospace}
+.n{font-size:54px;font-weight:800;fill:#fff}.u{font-size:13px;fill:#79b79f}
+.c{animation:up .6s ease-out both}@keyframes up{from{opacity:0;transform:translateY(10px)}to{opacity:1;transform:none}}
+</style>
+<g class="c" style="animation-delay:.1s"><rect x="1" y="1" width="283" height="150" rx="14" fill="url(#card)" stroke="#00e08a" stroke-opacity=".28"/><rect x="24" y="128" width="120" height="3" rx="2" fill="url(#bar)"/><text x="24" y="70" class="n">1</text><text x="24" y="98" class="u">hackathon win</text><text x="24" y="116" class="u">EuroTech × Hong Kong</text></g>
+<g class="c" style="animation-delay:.25s"><rect x="301" y="1" width="283" height="150" rx="14" fill="url(#card)" stroke="#00e08a" stroke-opacity=".28"/><rect x="324" y="128" width="120" height="3" rx="2" fill="url(#bar)"/><text x="324" y="70" class="n">5</text><text x="324" y="98" class="u">hackathon builds</text><text x="324" y="116" class="u">agents · voice · fintech</text></g>
+<g class="c" style="animation-delay:.4s"><rect x="601" y="1" width="283" height="150" rx="14" fill="url(#card)" stroke="#00e08a" stroke-opacity=".28"/><rect x="624" y="128" width="120" height="3" rx="2" fill="url(#bar)"/><text x="624" y="70" class="n">3</text><text x="624" y="98" class="u">cities in 5 days</text><text x="624" y="116" class="u">HK · Shenzhen · Guangzhou</text></g>
+<g class="c" style="animation-delay:.55s"><rect x="901" y="1" width="283" height="150" rx="14" fill="url(#card)" stroke="#00e08a" stroke-opacity=".28"/><rect x="924" y="128" width="120" height="3" rx="2" fill="url(#bar)"/><text x="924" y="70" class="n">5</text><text x="924" y="98" class="u">languages</text><text x="924" y="116" class="u">TJK · RU · EN · DE · TR</text></g>
+</svg>
