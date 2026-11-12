@@ -22,7 +22,17 @@
 
 > 🏆 **Winner, EuroTech Federation × Hong Kong Talent Engage Hackathon (Munich, 2026).** Our team built **CrossLens**: alternative credit scoring for foreign SMEs that Hong Kong banks can't see. The prize: a winners' tour through **Hong Kong, Shenzhen and Guangzhou**.
 
-## `// 02`  HACKATHONS
+## `// 02`  LIVE FROM GITHUB
+
+<sub>Refreshed every 6 hours by a GitHub Action in this repo: real commits, real languages, real pings.</sub>
+
+<img src="assets/neofetch.svg" alt="kaneke@github summary" width="100%"/>
+
+<img src="assets/skyline.svg" alt="contribution skyline" width="100%"/>
+
+<img src="assets/status.svg" alt="live status of shipped projects" width="100%"/>
+
+## `// 03`  HACKATHONS
 
 | Event | What we built | Outcome |
 |---|---|---|
@@ -32,7 +42,7 @@
 | **Hyperbloom UI/UX & Web Design** | SafePause, a pause before risky bank transfers | Team of 3, live site |
 | **Graphs Gone Wild (Neo4j)** | AutopsyGraph, forensics for AI agents | Built in 5.5 hours |
 
-## `// 03`  THINGS I'VE BUILT
+## `// 04`  THINGS I'VE BUILT
 
 <table>
 <tr>
@@ -128,7 +138,7 @@ Custom CNN vs EfficientNetV2-S vs ConvNeXt-Tiny on art-style classification, exp
 </tr>
 </table>
 
-## `// 04`  STACK
+## `// 05`  STACK
 
 <div align="center">
 
@@ -136,11 +146,18 @@ Custom CNN vs EfficientNetV2-S vs ConvNeXt-Tiny on art-style classification, exp
 
 </div>
 
-## `// 05`  CURRENTLY
+## `// 06`  CURRENTLY
 
 - 🔎 Looking for a **Werkstudent or internship** (Backend / Python / Java / AI), Berlin or remote
 - 🧪 Exploring how to debug AI agents: [AutopsyGraph](https://github.com/KanekiH4iSE/autopsygraph)
 - 🎲 Keeping [Магнат](https://github.com/KanekiH4iSE/Monopoly) alive and fun
+
+## `// 07`  WHAT I CARE ABOUT
+
+- **Security, first-hand.** I've taken apart the MOVEit breach, compared TLS 1.3, Signal and AWS SigV4, and broken OWASP Juice Shop on purpose.
+- **AI as a power tool, not a crutch.** Agents help me move fast; I still read every diff.
+- **A live URL beats a perfect slide.** Everything with a green dot above is running right now.
+- **Design with taste.** Dark, calm, intentional. If it looks like a template, I redo it.
 
 <br/>
 
