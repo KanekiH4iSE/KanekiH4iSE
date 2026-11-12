@@ -5,8 +5,8 @@
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mirzobehruz-shaidov)
-[![Email](https://img.shields.io/badge/Email-00e08a?style=for-the-badge&logo=gmail&logoColor=black)](mailto:shaidovmirzo@gmail.com)
-![Berlin](https://img.shields.io/badge/Berlin-open%20to%20internships-0b1f17?style=for-the-badge&labelColor=00e08a&color=0b1f17)
+[![Email](https://img.shields.io/badge/Email-e5243b?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shaidovmirzo@gmail.com)
+![Berlin](https://img.shields.io/badge/Berlin-open%20to%20internships-0b0809?style=for-the-badge&labelColor=e5243b&color=1a0b0d)
 
 <br/>
 
@@ -49,8 +49,8 @@
 <td width="50%" valign="top">
 
 ### 🎲 [Магнат](https://github.com/KanekiH4iSE/Monopoly)
-![live](https://img.shields.io/badge/status-live-00e08a?style=flat-square&labelColor=07140f)
-![multiplayer](https://img.shields.io/badge/real--time-multiplayer-0b6e4a?style=flat-square&labelColor=07140f)
+![live](https://img.shields.io/badge/status-live-e5243b?style=flat-square&labelColor=0b0809)
+![multiplayer](https://img.shields.io/badge/real--time-multiplayer-7a1020?style=flat-square&labelColor=0b0809)
 
 Online multiplayer Monopoly-style game with an original theme. Join from any device. Deployed on Render and played by friends.
 
@@ -60,8 +60,8 @@ Online multiplayer Monopoly-style game with an original theme. Join from any dev
 <td width="50%" valign="top">
 
 ### 🎰 [AniCase](https://github.com/KanekiH4iSE/Anime)
-![live](https://img.shields.io/badge/status-live-00e08a?style=flat-square&labelColor=07140f)
-![bilingual](https://img.shields.io/badge/RU%20%2F%20EN-0b6e4a?style=flat-square&labelColor=07140f)
+![live](https://img.shields.io/badge/status-live-e5243b?style=flat-square&labelColor=0b0809)
+![bilingual](https://img.shields.io/badge/RU%20%2F%20EN-7a1020?style=flat-square&labelColor=0b0809)
 
 CS-style case roulette that picks what anime to watch: every spin eliminates one title. List import from Shikimori, AniList and MAL, plus a rematch slot.
 
@@ -73,8 +73,8 @@ CS-style case roulette that picks what anime to watch: every spin eliminates one
 <td width="50%" valign="top">
 
 ### ⏸️ [SafePause](https://github.com/KanekiH4iSE/Ausl-nder-Team)
-![hackathon](https://img.shields.io/badge/hackathon-team%20of%203-0b6e4a?style=flat-square&labelColor=07140f)
-![live](https://img.shields.io/badge/status-live-00e08a?style=flat-square&labelColor=07140f)
+![hackathon](https://img.shields.io/badge/hackathon-team%20of%203-7a1020?style=flat-square&labelColor=0b0809)
+![live](https://img.shields.io/badge/status-live-e5243b?style=flat-square&labelColor=0b0809)
 
 Friction as a feature: a fintech app that makes you stop before an impulsive or scam-driven transfer. My part: research and frontend, Figma design plus the adaptive coded version.
 
@@ -84,7 +84,7 @@ Friction as a feature: a fintech app that makes you stop before an impulsive or 
 <td width="50%" valign="top">
 
 ### 🔬 [AutopsyGraph](https://github.com/KanekiH4iSE/autopsygraph)
-![hackathon](https://img.shields.io/badge/hackathon-5.5h-0b6e4a?style=flat-square&labelColor=07140f)
+![hackathon](https://img.shields.io/badge/hackathon-5.5h-7a1020?style=flat-square&labelColor=0b0809)
 
 Records another AI agent's runs as a knowledge graph in Neo4j and explains *why* it failed. Built at the Graphs Gone Wild hackathon.
 
@@ -96,7 +96,7 @@ Records another AI agent's runs as a knowledge graph in Neo4j and explains *why*
 <td width="50%" valign="top">
 
 ### 🎙️ Quorum
-![hackathon](https://img.shields.io/badge/hackathon-voice%20AI-0b6e4a?style=flat-square&labelColor=07140f)
+![hackathon](https://img.shields.io/badge/hackathon-voice%20AI-7a1020?style=flat-square&labelColor=0b0809)
 
 Multi-speaker group voice AI API: an agent that follows a conversation with several people at once. Built at the telli × LiveKit hackathon.
 
@@ -106,7 +106,7 @@ Multi-speaker group voice AI API: an agent that follows a conversation with seve
 <td width="50%" valign="top">
 
 ### 🛰️ [Last Orbit](https://github.com/KanekiH4iSE/last-orbit)
-![course](https://img.shields.io/badge/UX-iterated-0b6e4a?style=flat-square&labelColor=07140f)
+![course](https://img.shields.io/badge/UX-iterated-7a1020?style=flat-square&labelColor=0b0809)
 
 Browser survival game, built as a personal product and pushed through heuristic evaluation and redesign.
 
@@ -118,7 +118,7 @@ Browser survival game, built as a personal product and pushed through heuristic 
 <td width="50%" valign="top">
 
 ### 🏦 Taler
-![team](https://img.shields.io/badge/Scrum-team%20project-0b6e4a?style=flat-square&labelColor=07140f)
+![team](https://img.shields.io/badge/Scrum-team%20project-7a1020?style=flat-square&labelColor=0b0809)
 
 PHP/MySQL banking admin system: atomic transfers, statements, legacy CSV import. I found Jira tickets marked "Done" with no code behind them and implemented them.
 
@@ -128,7 +128,7 @@ PHP/MySQL banking admin system: atomic transfers, statements, legacy CSV import.
 <td width="50%" valign="top">
 
 ### 🖼️ WikiArt Style Classifier
-![research](https://img.shields.io/badge/ML-explainable-0b6e4a?style=flat-square&labelColor=07140f)
+![research](https://img.shields.io/badge/ML-explainable-7a1020?style=flat-square&labelColor=0b0809)
 
 Custom CNN vs EfficientNetV2-S vs ConvNeXt-Tiny on art-style classification, explained with Grad-CAM and SHAP.
 
@@ -156,7 +156,7 @@ Custom CNN vs EfficientNetV2-S vs ConvNeXt-Tiny on art-style classification, exp
 
 - **Security, first-hand.** I've taken apart the MOVEit breach, compared TLS 1.3, Signal and AWS SigV4, and broken OWASP Juice Shop on purpose.
 - **AI as a power tool, not a crutch.** Agents help me move fast; I still read every diff.
-- **A live URL beats a perfect slide.** Everything with a green dot above is running right now.
+- **A live URL beats a perfect slide.** Everything with a live dot above is running right now.
 - **Design with taste.** Dark, calm, intentional. If it looks like a template, I redo it.
 
 <br/>
