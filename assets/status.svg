@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="212" viewBox="0 0 1000 212">
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0c2218"/><stop offset="1" stop-color="#07140f"/></linearGradient></defs>
+<style>text{font-family:'JetBrains Mono','Fira Code',Consolas,'SFMono-Regular',Menlo,monospace;font-size:14px}.d{fill:#79b79f;font-size:12px}.n{fill:#e8fff5;font-weight:700}.u{fill:#79b79f;font-size:13px}.p{animation:p 1.8s ease-in-out infinite}@keyframes p{0%{r:5;opacity:.7}70%{r:11;opacity:0}100%{r:11;opacity:0}}.w{transform-box:fill-box;transform-origin:0 50%;animation:w 1.2s ease-out both}@keyframes w{from{transform:scaleX(0)}}</style>
+<rect x="1" y="1" width="998" height="210" rx="14" fill="url(#bg)" stroke="#00e08a" stroke-opacity=".28"/>
+<text x="28" y="34" class="d">// live status of what i shipped</text>
+<text x="972" y="34" text-anchor="end" class="d">checked 12 Nov 20:33 UTC</text>
+<text x="28" y="56" style="fill:#00e08a;font-weight:700">all systems operational</text>
+<circle cx="38" cy="87" r="5" fill="#00e08a"/><circle class="p" cx="38" cy="87" r="5" fill="none" stroke="#00e08a"/>
+<text x="58" y="92" class="n">Магнат</text><text x="200" y="92" class="u">monopoly-oeep.onrender.com</text>
+<rect x="680" y="83" width="140" height="6" rx="3" fill="#00e08a" fill-opacity=".1"/><rect class="w" x="680" y="83" width="32" height="6" rx="3" fill="#00e08a"/>
+<text x="972" y="92" text-anchor="end" style="fill:#00e08a;font-size:13px">200 · 344 ms</text>
+<circle cx="38" cy="131" r="5" fill="#00e08a"/><circle class="p" cx="38" cy="131" r="5" fill="none" stroke="#00e08a"/>
+<text x="58" y="136" class="n">AniCase</text><text x="200" y="136" class="u">anicase-1.vercel.app</text>
+<rect x="680" y="127" width="140" height="6" rx="3" fill="#00e08a" fill-opacity=".1"/><rect class="w" x="680" y="127" width="7" height="6" rx="3" fill="#00e08a"/>
+<text x="972" y="136" text-anchor="end" style="fill:#00e08a;font-size:13px">200 · 71 ms</text>
+<circle cx="38" cy="175" r="5" fill="#00e08a"/><circle class="p" cx="38" cy="175" r="5" fill="none" stroke="#00e08a"/>
+<text x="58" y="180" class="n">SafePause</text><text x="200" y="180" class="u">safepause-eine-pause-bevor-das-geld.vercel.app</text>
+<rect x="680" y="171" width="140" height="6" rx="3" fill="#00e08a" fill-opacity=".1"/><rect class="w" x="680" y="171" width="6" height="6" rx="3" fill="#00e08a"/>
+<text x="972" y="180" text-anchor="end" style="fill:#00e08a;font-size:13px">200 · 50 ms</text>
+</svg>

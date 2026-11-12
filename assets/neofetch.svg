@@ -1,0 +1,65 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="300" viewBox="0 0 1000 300">
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0c2218"/><stop offset="1" stop-color="#07140f"/></linearGradient>
+<linearGradient id="cube" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#6fffc4"/><stop offset=".55" stop-color="#00e08a"/><stop offset="1" stop-color="#0b6e4a"/></linearGradient></defs>
+<style>text{font-family:'JetBrains Mono','Fira Code',Consolas,'SFMono-Regular',Menlo,monospace;font-size:14px}.k{fill:#00e08a;font-weight:700}.v{fill:#e8fff5}.d{fill:#79b79f}.q{animation:q 3.2s ease-in-out infinite}@keyframes q{0%,100%{opacity:1}50%{opacity:.35}}.in{animation:in .5s ease-out both}@keyframes in{from{opacity:0;transform:translateY(6px)}to{opacity:1;transform:none}}</style>
+<rect x="1" y="1" width="998" height="298" rx="14" fill="url(#bg)" stroke="#00e08a" stroke-opacity=".28"/>
+<rect class="q" style="animation-delay:0.00s" x="46" y="44" width="22" height="22" rx="5" fill="url(#cube)"/>
+<rect x="74" y="44" width="22" height="22" rx="5" fill="#00e08a" fill-opacity=".06"/>
+<rect x="102" y="44" width="22" height="22" rx="5" fill="#00e08a" fill-opacity=".06"/>
+<rect x="130" y="44" width="22" height="22" rx="5" fill="#00e08a" fill-opacity=".06"/>
+<rect class="q" style="animation-delay:0.48s" x="158" y="44" width="22" height="22" rx="5" fill="url(#cube)"/>
+<rect class="q" style="animation-delay:0.12s" x="46" y="72" width="22" height="22" rx="5" fill="url(#cube)"/>
+<rect x="74" y="72" width="22" height="22" rx="5" fill="#00e08a" fill-opacity=".06"/>
+<rect x="102" y="72" width="22" height="22" rx="5" fill="#00e08a" fill-opacity=".06"/>
+<rect class="q" style="animation-delay:0.48s" x="130" y="72" width="22" height="22" rx="5" fill="url(#cube)"/>
+<rect x="158" y="72" width="22" height="22" rx="5" fill="#00e08a" fill-opacity=".06"/>
+<rect class="q" style="animation-delay:0.24s" x="46" y="100" width="22" height="22" rx="5" fill="url(#cube)"/>
+<rect x="74" y="100" width="22" height="22" rx="5" fill="#00e08a" fill-opacity=".06"/>
+<rect class="q" style="animation-delay:0.48s" x="102" y="100" width="22" height="22" rx="5" fill="url(#cube)"/>
+<rect x="130" y="100" width="22" height="22" rx="5" fill="#00e08a" fill-opacity=".06"/>
+<rect x="158" y="100" width="22" height="22" rx="5" fill="#00e08a" fill-opacity=".06"/>
+<rect class="q" style="animation-delay:0.36s" x="46" y="128" width="22" height="22" rx="5" fill="url(#cube)"/>
+<rect class="q" style="animation-delay:0.48s" x="74" y="128" width="22" height="22" rx="5" fill="url(#cube)"/>
+<rect x="102" y="128" width="22" height="22" rx="5" fill="#00e08a" fill-opacity=".06"/>
+<rect x="130" y="128" width="22" height="22" rx="5" fill="#00e08a" fill-opacity=".06"/>
+<rect x="158" y="128" width="22" height="22" rx="5" fill="#00e08a" fill-opacity=".06"/>
+<rect class="q" style="animation-delay:0.48s" x="46" y="156" width="22" height="22" rx="5" fill="url(#cube)"/>
+<rect x="74" y="156" width="22" height="22" rx="5" fill="#00e08a" fill-opacity=".06"/>
+<rect class="q" style="animation-delay:0.72s" x="102" y="156" width="22" height="22" rx="5" fill="url(#cube)"/>
+<rect x="130" y="156" width="22" height="22" rx="5" fill="#00e08a" fill-opacity=".06"/>
+<rect x="158" y="156" width="22" height="22" rx="5" fill="#00e08a" fill-opacity=".06"/>
+<rect class="q" style="animation-delay:0.60s" x="46" y="184" width="22" height="22" rx="5" fill="url(#cube)"/>
+<rect x="74" y="184" width="22" height="22" rx="5" fill="#00e08a" fill-opacity=".06"/>
+<rect x="102" y="184" width="22" height="22" rx="5" fill="#00e08a" fill-opacity=".06"/>
+<rect class="q" style="animation-delay:0.96s" x="130" y="184" width="22" height="22" rx="5" fill="url(#cube)"/>
+<rect x="158" y="184" width="22" height="22" rx="5" fill="#00e08a" fill-opacity=".06"/>
+<rect class="q" style="animation-delay:0.72s" x="46" y="212" width="22" height="22" rx="5" fill="url(#cube)"/>
+<rect x="74" y="212" width="22" height="22" rx="5" fill="#00e08a" fill-opacity=".06"/>
+<rect x="102" y="212" width="22" height="22" rx="5" fill="#00e08a" fill-opacity=".06"/>
+<rect x="130" y="212" width="22" height="22" rx="5" fill="#00e08a" fill-opacity=".06"/>
+<rect class="q" style="animation-delay:1.20s" x="158" y="212" width="22" height="22" rx="5" fill="url(#cube)"/>
+<rect x="46" y="254" width="18" height="8" rx="2" fill="#00e08a"/>
+<rect x="70" y="254" width="18" height="8" rx="2" fill="#2dd4bf"/>
+<rect x="94" y="254" width="18" height="8" rx="2" fill="#a3e635"/>
+<rect x="118" y="254" width="18" height="8" rx="2" fill="#38bdf8"/>
+<rect x="142" y="254" width="18" height="8" rx="2" fill="#facc15"/>
+<rect x="166" y="254" width="18" height="8" rx="2" fill="#94a3b8"/>
+<text x="250" y="58" class="in"><tspan class="k">kaneke</tspan><tspan class="d">@</tspan><tspan class="k">github</tspan></text>
+<text x="250" y="78" class="d">---------------</text>
+<text x="250" y="106" class="in" style="animation-delay:0.15s"><tspan class="k">role</tspan><tspan x="350" class="v">Software Engineering student · UE Potsdam</tspan></text>
+<text x="250" y="131" class="in" style="animation-delay:0.27s"><tspan class="k">based</tspan><tspan x="350" class="v">Berlin · from Khujand, Tajikistan</tspan></text>
+<text x="250" y="156" class="in" style="animation-delay:0.39s"><tspan class="k">stack</tspan><tspan x="350" class="v">Python · FastAPI · Java · React · Neo4j</tspan></text>
+<text x="250" y="181" class="in" style="animation-delay:0.51s"><tspan class="k">repos</tspan><tspan x="350" class="v">9 public · 3 followers</tspan></text>
+<text x="250" y="206" class="in" style="animation-delay:0.63s"><tspan class="k">contribs</tspan><tspan x="350" class="v">100 in the last year</tspan></text>
+<text x="250" y="231" class="in" style="animation-delay:0.75s"><tspan class="k">streak</tspan><tspan x="350" class="v">1 day now · 4 best</tspan></text>
+<rect x="250.0" y="248" width="269.4" height="8" fill="#00e08a"/>
+<rect x="519.4" y="248" width="200.0" height="8" fill="#2dd4bf"/>
+<rect x="719.3" y="248" width="111.3" height="8" fill="#a3e635"/>
+<rect x="830.6" y="248" width="76.3" height="8" fill="#38bdf8"/>
+<rect x="906.9" y="248" width="53.1" height="8" fill="#facc15"/>
+<circle cx="254" cy="272" r="4" fill="#00e08a"/><text x="263" y="276" class="d" style="font-size:12px">JavaScript 38%</text>
+<circle cx="382.4" cy="272" r="4" fill="#2dd4bf"/><text x="391.4" y="276" class="d" style="font-size:12px">Python 28%</text>
+<circle cx="480.4" cy="272" r="4" fill="#a3e635"/><text x="489.4" y="276" class="d" style="font-size:12px">HTML 16%</text>
+<circle cx="563.1999999999999" cy="272" r="4" fill="#38bdf8"/><text x="572.1999999999999" y="276" class="d" style="font-size:12px">CSS 11%</text>
+<circle cx="638.3999999999999" cy="272" r="4" fill="#facc15"/><text x="647.3999999999999" y="276" class="d" style="font-size:12px">Jupyter Notebook 7%</text>
+</svg>
