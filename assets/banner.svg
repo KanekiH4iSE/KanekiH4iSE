@@ -25,7 +25,7 @@ text{font-family:'JetBrains Mono','Fira Code',Consolas,'SFMono-Regular',Menlo,mo
 </g>
 <rect x="1" y="1" width="1198" height="298" rx="14" fill="none" stroke="#e5243b" stroke-opacity=".3"/>
 <g fill="none" stroke="#e5243b" stroke-width="2"><path d="M22 52V22H52"/><path d="M1148 22H1178V52"/><path d="M22 248V278H52"/><path d="M1148 278H1178V248"/></g>
-<text x="66" y="46" class="dim">kaneke.dev // profile v3</text>
+<text x="66" y="46" class="dim">kaneke // profile v3</text>
 <text x="1134" y="46" class="dim" text-anchor="end">py · fastapi · java · react · neo4j</text>
 <text class="g2" x="600" y="160" text-anchor="middle" font-size="92" font-weight="800" letter-spacing="14" fill="#e5243b">KANEKE</text>
 <text class="g1" x="600" y="160" text-anchor="middle" font-size="92" font-weight="800" letter-spacing="14" fill="#f4f1f1">KANEKE</text>
