@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="860" height="300" viewBox="0 0 860 300">
+<style>
+text{font-family:'JetBrains Mono','Fira Code',Consolas,'SFMono-Regular',Menlo,monospace;font-size:16px}
+.t{fill:#d6efe3}.p{fill:#00e08a}.ok{fill:#00e08a}.k{fill:#79b79f}.v{fill:#e8fff5}
+.l{animation:in .35s ease-out both}
+@keyframes in{from{opacity:0;transform:translateX(-8px)}to{opacity:1;transform:none}}
+.blink{animation:b 1s steps(1) infinite}@keyframes b{50%{opacity:0}}
+</style>
+<rect x="1" y="1" width="858" height="298" rx="12" fill="#07140f" stroke="#00e08a" stroke-opacity=".3"/>
+<path d="M1 13a12 12 0 0 1 12-12h834a12 12 0 0 1 12 12V40H1z" fill="#0c2218"/>
+<circle cx="26" cy="21" r="6" fill="#ff5f56"/><circle cx="48" cy="21" r="6" fill="#ffbd2e"/><circle cx="70" cy="21" r="6" fill="#27c93f"/>
+<text x="430" y="26" text-anchor="middle" class="k" style="font-size:13px">kaneke@berlin: ~/profile</text>
+<g>
+<text x="28" y="78" class="l" style="animation-delay:.2s"><tspan class="p">$</tspan><tspan class="t"> ./kaneke --whoami</tspan></text>
+<text x="28" y="112" class="l" style="animation-delay:.9s"><tspan class="ok">[ok]</tspan><tspan class="k"> backend ........</tspan><tspan class="v"> python/fastapi · java/spring boot</tspan></text>
+<text x="28" y="140" class="l" style="animation-delay:1.3s"><tspan class="ok">[ok]</tspan><tspan class="k"> ai agents ......</tspan><tspan class="v"> claude · livekit · neo4j</tspan></text>
+<text x="28" y="168" class="l" style="animation-delay:1.7s"><tspan class="ok">[ok]</tspan><tspan class="k"> security .......</tspan><tspan class="v"> incident analysis · owasp juice shop</tspan></text>
+<text x="28" y="196" class="l" style="animation-delay:2.1s"><tspan class="ok">[ok]</tspan><tspan class="k"> frontend .......</tspan><tspan class="v"> react · figma · ui with taste</tspan></text>
+<text x="28" y="224" class="l" style="animation-delay:2.5s"><tspan class="ok">[ok]</tspan><tspan class="k"> shipping .......</tspan><tspan class="v"> weekend prototype → live url</tspan></text>
+<text x="28" y="268" class="l" style="animation-delay:3s"><tspan class="p">$</tspan><tspan class="blink p"> _</tspan></text>
+</g>
+</svg>
