@@ -10,8 +10,9 @@ SITES = [
     ("SafePause", "https://safepause-eine-pause-bevor-das-geld.vercel.app"),
 ]
 FONT = "'JetBrains Mono','Fira Code',Consolas,'SFMono-Regular',Menlo,monospace"
-ACC, DIM, BG1, BG2 = "#00e08a", "#79b79f", "#0c2218", "#07140f"
-LANG_COLORS = ["#00e08a", "#2dd4bf", "#a3e635", "#38bdf8", "#facc15", "#94a3b8"]
+ACC, DIM, BG1, BG2 = "#e5243b", "#a39a9b", "#1a0b0d", "#0b0809"
+OK, BAD = "#f4f1f1", "#f59e0b"
+LANG_COLORS = ["#e5243b", "#f4f1f1", "#9b1c2c", "#8a8a8f", "#ff7a85", "#4a4a4f"]
 OUT = os.path.join(os.path.dirname(os.path.abspath(__file__)), "..", "assets")
 
 
@@ -90,8 +91,8 @@ def neofetch(user, days, langs):
     W, H = 1000, 300
     o = [f'<svg xmlns="http://www.w3.org/2000/svg" width="{W}" height="{H}" viewBox="0 0 {W} {H}">',
          f'<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="{BG1}"/><stop offset="1" stop-color="{BG2}"/></linearGradient>',
-         f'<linearGradient id="cube" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#6fffc4"/><stop offset=".55" stop-color="{ACC}"/><stop offset="1" stop-color="#0b6e4a"/></linearGradient></defs>',
-         f'<style>text{{font-family:{FONT};font-size:14px}}.k{{fill:{ACC};font-weight:700}}.v{{fill:#e8fff5}}.d{{fill:{DIM}}}'
+         f'<linearGradient id="cube" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ff8f99"/><stop offset=".55" stop-color="{ACC}"/><stop offset="1" stop-color="#6b0f1a"/></linearGradient></defs>',
+         f'<style>text{{font-family:{FONT};font-size:14px}}.k{{fill:{ACC};font-weight:700}}.v{{fill:#f4f1f1}}.d{{fill:{DIM}}}'
          '.q{animation:q 3.2s ease-in-out infinite}@keyframes q{0%,100%{opacity:1}50%{opacity:.35}}'
          '.in{animation:in .5s ease-out both}@keyframes in{from{opacity:0;transform:translateY(6px)}to{opacity:1;transform:none}}</style>',
          f'<rect x="1" y="1" width="{W-2}" height="{H-2}" rx="14" fill="url(#bg)" stroke="{ACC}" stroke-opacity=".28"/>']
@@ -168,9 +169,9 @@ def skyline(days):
                 continue
             h = 8 + 100 * (c / mx) ** 0.75
             t = c / mx
-            front = f"rgb({int(0+20*t)},{int(120+104*t)},{int(80+58*t)})"
-            top = f"rgb({int(110+90*t)},{int(240+15*t)},{int(190+30*t)})"
-            side = f"rgb(0,{int(70+60*t)},{int(48+40*t)})"
+            front = f"rgb({int(120+109*t)},{int(16+20*t)},{int(28+31*t)})"
+            top = f"rgb({int(225+19*t)},{int(110+110*t)},{int(118+102*t)})"
+            side = f"rgb({int(64+50*t)},8,{int(14+10*t)})"
             o.append(f'<g class="b" style="animation-delay:{w*0.018+d*0.03:.2f}s">'
                      f'<path d="M{X} {Y}v{-h:.1f}l{dx} {-dy}v{h:.1f}z" fill="{side}"/>'
                      f'<path d="M{X} {Y-h:.1f}h{bw}l{dx} {-dy}h{-bw}z" fill="{top}"/>'
@@ -210,17 +211,17 @@ def status():
     ok = up == len(rows)
     o = [f'<svg xmlns="http://www.w3.org/2000/svg" width="{W}" height="{H}" viewBox="0 0 {W} {H}">',
          f'<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="{BG1}"/><stop offset="1" stop-color="{BG2}"/></linearGradient></defs>',
-         f'<style>text{{font-family:{FONT};font-size:14px}}.d{{fill:{DIM};font-size:12px}}.n{{fill:#e8fff5;font-weight:700}}.u{{fill:{DIM};font-size:13px}}'
+         f'<style>text{{font-family:{FONT};font-size:14px}}.d{{fill:{DIM};font-size:12px}}.n{{fill:#f4f1f1;font-weight:700}}.u{{fill:{DIM};font-size:13px}}'
          '.p{animation:p 1.8s ease-in-out infinite}@keyframes p{0%{r:5;opacity:.7}70%{r:11;opacity:0}100%{r:11;opacity:0}}'
          '.w{transform-box:fill-box;transform-origin:0 50%;animation:w 1.2s ease-out both}@keyframes w{from{transform:scaleX(0)}}</style>',
          f'<rect x="1" y="1" width="{W-2}" height="{H-2}" rx="14" fill="url(#bg)" stroke="{ACC}" stroke-opacity=".28"/>',
          f'<text x="28" y="34" class="d">// live status of what i shipped</text>',
          f'<text x="{W-28}" y="34" text-anchor="end" class="d">checked {now}</text>',
-         f'<text x="28" y="56" style="fill:{ACC if ok else "#facc15"};font-weight:700">{"all systems operational" if ok else f"{up} of {len(rows)} up"}</text>']
+         f'<text x="28" y="56" style="fill:{OK if ok else BAD};font-weight:700">{"all systems operational" if ok else f"{up} of {len(rows)} up"}</text>']
     for i, (name, url, code, ms) in enumerate(rows):
         y = 92 + i * 44
         good = code and 200 <= code < 400
-        col = ACC if good else "#f87171"
+        col = OK if good else BAD
         host = url.split("//", 1)[1]
         frac = min(1, (ms or 0) / 1500)
         o.append(f'<circle cx="38" cy="{y-5}" r="5" fill="{col}"/><circle class="p" cx="38" cy="{y-5}" r="5" fill="none" stroke="{col}"/>')
