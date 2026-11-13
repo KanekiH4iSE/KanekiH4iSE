@@ -3,7 +3,7 @@
 <style>text{font-family:'JetBrains Mono','Fira Code',Consolas,'SFMono-Regular',Menlo,monospace;font-size:12px;fill:#a39a9b}.h{fill:#e5243b;font-weight:700;font-size:13px}.b{transform-box:fill-box;transform-origin:50% 100%;animation:g .9s cubic-bezier(.2,.8,.2,1) both}@keyframes g{from{transform:scaleY(0)}to{transform:scaleY(1)}}</style>
 <rect x="1" y="1" width="1178" height="298" rx="14" fill="url(#bg)" stroke="#e5243b" stroke-opacity=".28"/>
 <text x="28" y="34">// contribution skyline</text>
-<text x="1152" y="34" text-anchor="end" class="h">105 contributions in the last year</text>
+<text x="1152" y="34" text-anchor="end" class="h">106 contributions in the last year</text>
 <g class="b" style="animation-delay:1.10s"><path d="M1065 204v-51.9l6 -7v51.9z" fill="rgb(80,8,17)"/><path d="M1065 152.1h14l6 -7h-14z" fill="rgb(231,146,152)"/><rect x="1065" y="152.1" width="14" height="51.9" fill="rgb(156,22,38)"/></g>
 <path d="M1046 204h14l6 -7h-14z" fill="#e5243b" fill-opacity=".07"/>
 <path d="M1027 204h14l6 -7h-14z" fill="#e5243b" fill-opacity=".07"/>
@@ -56,6 +56,7 @@
 <path d="M134 204h14l6 -7h-14z" fill="#e5243b" fill-opacity=".07"/>
 <path d="M115 204h14l6 -7h-14z" fill="#e5243b" fill-opacity=".07"/>
 <path d="M96 204h14l6 -7h-14z" fill="#e5243b" fill-opacity=".07"/>
+<path d="M1078 211h14l6 -7h-14z" fill="#e5243b" fill-opacity=".07"/>
 <path d="M1059 211h14l6 -7h-14z" fill="#e5243b" fill-opacity=".07"/>
 <g class="b" style="animation-delay:1.05s"><path d="M1040 211v-64.5l6 -7v64.5z" fill="rgb(87,8,18)"/><path d="M1040 146.5h14l6 -7h-14z" fill="rgb(233,161,165)"/><rect x="1040" y="146.5" width="14" height="64.5" fill="rgb(170,25,42)"/></g>
 <g class="b" style="animation-delay:1.03s"><path d="M1021 211v-108.0l6 -7v108.0z" fill="rgb(114,8,24)"/><path d="M1021 103.0h14l6 -7h-14z" fill="rgb(244,220,220)"/><rect x="1021" y="103.0" width="14" height="108.0" fill="rgb(229,36,59)"/></g>
@@ -108,7 +109,7 @@
 <path d="M128 211h14l6 -7h-14z" fill="#e5243b" fill-opacity=".07"/>
 <path d="M109 211h14l6 -7h-14z" fill="#e5243b" fill-opacity=".07"/>
 <path d="M90 211h14l6 -7h-14z" fill="#e5243b" fill-opacity=".07"/>
-<g class="b" style="animation-delay:1.06s"><path d="M1072 218v-81.8l6 -7v81.8z" fill="rgb(97,8,20)"/><path d="M1072 136.2h14l6 -7h-14z" fill="rgb(237,183,186)"/><rect x="1072" y="136.2" width="14" height="81.8" fill="rgb(192,29,48)"/></g>
+<g class="b" style="animation-delay:1.06s"><path d="M1072 218v-87.2l6 -7v87.2z" fill="rgb(100,8,21)"/><path d="M1072 130.8h14l6 -7h-14z" fill="rgb(238,190,192)"/><rect x="1072" y="130.8" width="14" height="87.2" fill="rgb(199,30,50)"/></g>
 <path d="M1053 218h14l6 -7h-14z" fill="#e5243b" fill-opacity=".07"/>
 <g class="b" style="animation-delay:1.02s"><path d="M1034 218v-92.6l6 -7v92.6z" fill="rgb(104,8,22)"/><path d="M1034 125.4h14l6 -7h-14z" fill="rgb(240,198,199)"/><rect x="1034" y="125.4" width="14" height="92.6" fill="rgb(207,32,52)"/></g>
 <path d="M1015 218h14l6 -7h-14z" fill="#e5243b" fill-opacity=".07"/>
