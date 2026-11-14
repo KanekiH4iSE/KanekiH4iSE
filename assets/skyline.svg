@@ -4,6 +4,7 @@
 <rect x="1" y="1" width="1178" height="298" rx="14" fill="url(#bg)" stroke="#e5243b" stroke-opacity=".28"/>
 <text x="28" y="34">// contribution skyline</text>
 <text x="1152" y="34" text-anchor="end" class="h">106 contributions in the last year</text>
+<path d="M1084 204h14l6 -7h-14z" fill="#e5243b" fill-opacity=".07"/>
 <g class="b" style="animation-delay:1.10s"><path d="M1065 204v-51.9l6 -7v51.9z" fill="rgb(80,8,17)"/><path d="M1065 152.1h14l6 -7h-14z" fill="rgb(231,146,152)"/><rect x="1065" y="152.1" width="14" height="51.9" fill="rgb(156,22,38)"/></g>
 <path d="M1046 204h14l6 -7h-14z" fill="#e5243b" fill-opacity=".07"/>
 <path d="M1027 204h14l6 -7h-14z" fill="#e5243b" fill-opacity=".07"/>

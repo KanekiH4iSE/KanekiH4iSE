@@ -51,7 +51,7 @@
 <text x="250" y="156" class="in" style="animation-delay:0.39s"><tspan class="k">stack</tspan><tspan x="350" class="v">Python · FastAPI · Java · React · Neo4j</tspan></text>
 <text x="250" y="181" class="in" style="animation-delay:0.51s"><tspan class="k">repos</tspan><tspan x="350" class="v">9 public · 3 followers</tspan></text>
 <text x="250" y="206" class="in" style="animation-delay:0.63s"><tspan class="k">contribs</tspan><tspan x="350" class="v">106 in the last year</tspan></text>
-<text x="250" y="231" class="in" style="animation-delay:0.75s"><tspan class="k">streak</tspan><tspan x="350" class="v">1 day now · 4 best</tspan></text>
+<text x="250" y="231" class="in" style="animation-delay:0.75s"><tspan class="k">streak</tspan><tspan x="350" class="v">0 days now · 4 best</tspan></text>
 <rect x="250.0" y="248" width="269.4" height="8" fill="#e5243b"/>
 <rect x="519.4" y="248" width="200.0" height="8" fill="#f4f1f1"/>
 <rect x="719.4" y="248" width="111.3" height="8" fill="#9b1c2c"/>
