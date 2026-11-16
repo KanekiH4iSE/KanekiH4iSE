@@ -8,6 +8,7 @@ SITES = [
     ("Магнат", "https://monopoly-oeep.onrender.com"),
     ("AniCase", "https://anicase-1.vercel.app"),
     ("SafePause", "https://safepause-eine-pause-bevor-das-geld.vercel.app"),
+    ("Agrofy", "https://agrofy-mocha.vercel.app"),
 ]
 FONT = "'JetBrains Mono','Fira Code',Consolas,'SFMono-Regular',Menlo,monospace"
 ACC, DIM, BG1, BG2 = "#e5243b", "#a39a9b", "#1a0b0d", "#0b0809"
@@ -17,7 +18,7 @@ OUT = os.path.join(os.path.dirname(os.path.abspath(__file__)), "..", "assets")
 
 
 def get(url, timeout=30, api=False):
-    req = urllib.request.Request(url, headers={"User-Agent": "kaneke-profile-cards"})
+    req = urllib.request.Request(url, headers={"User-Agent": "kaneki-profile-cards"})
     tok = os.environ.get("GITHUB_TOKEN")
     if api and tok:
         req.add_header("Authorization", f"Bearer {tok}")
@@ -113,7 +114,7 @@ def neofetch(user, days, langs):
             ("repos", f"{repos} public · {fol} followers"),
             ("contribs", f"{total} in the last year"),
             ("streak", f"{now} day{'' if now == 1 else 's'} now · {best} best")]
-    o.append(f'<text x="{tx}" y="58" class="in"><tspan class="k">kaneke</tspan><tspan class="d">@</tspan><tspan class="k">github</tspan></text>')
+    o.append(f'<text x="{tx}" y="58" class="in"><tspan class="k">kaneki</tspan><tspan class="d">@</tspan><tspan class="k">github</tspan></text>')
     o.append(f'<text x="{tx}" y="78" class="d">{"-"*15}</text>')
     for i, (k, v) in enumerate(rows):
         o.append(f'<text x="{tx}" y="{106+i*25}" class="in" style="animation-delay:{.15+i*.12:.2f}s"><tspan class="k">{k}</tspan><tspan x="{tx+100}" class="v">{esc(v)}</tspan></text>')
