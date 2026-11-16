@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/banner.svg" alt="Kaneke: Software Engineering, UE Potsdam" width="100%"/>
+<img src="assets/banner.svg" alt="Kaneki: software engineering student at UE Potsdam, based in Berlin" width="100%"/>
 
 <br/>
 
@@ -18,7 +18,7 @@
 
 ## `// 01`  HIGHLIGHTS
 
-<img src="assets/stats.svg" alt="1 hackathon win, 5 hackathon builds, 3 cities, 5 languages" width="100%"/>
+<img src="assets/stats.svg" alt="1 hackathon win, 6 hackathon builds, 3 cities, 5 languages" width="100%"/>
 
 > 🏆 **Winner, EuroTech Federation × Hong Kong Talent Engage Hackathon (Munich, 2026).** Our team built **CrossLens**: alternative credit scoring for foreign SMEs that Hong Kong banks can't see. The prize: a winners' tour through **Hong Kong, Shenzhen and Guangzhou**.
 
@@ -26,7 +26,7 @@
 
 <sub>Refreshed every 6 hours by a GitHub Action in this repo: real commits, real languages, real pings.</sub>
 
-<img src="assets/neofetch.svg" alt="kaneke@github summary" width="100%"/>
+<img src="assets/neofetch.svg" alt="kaneki@github summary" width="100%"/>
 
 <img src="assets/skyline.svg" alt="contribution skyline" width="100%"/>
 
@@ -37,6 +37,7 @@
 | Event | What we built | Outcome |
 |---|---|---|
 | **EuroTech × Hong Kong Talent Engage** | CrossLens, credit scoring for SMEs entering Hong Kong | 🏆 **Winner** (FinTech track and overall) |
+| **NASA Space Apps Challenge 2026** | Agrofy, crop rotations compared under drought for German farms | Live demo on 38 seasons of NASA data |
 | **KI-Hackathon Energie** | Plankton PV, AI solar-planning assistant for Germany | Working demo, built overnight |
 | **telli × LiveKit Voice AI** | Quorum, a voice AI API for group conversations | Working prototype |
 | **Hyperbloom UI/UX & Web Design** | SafePause, a pause before risky bank transfers | Team of 3, live site |
@@ -45,6 +46,20 @@
 ## `// 04`  THINGS I'VE BUILT
 
 <table>
+<tr>
+<td colspan="2" valign="top">
+
+### 🌾 [Agrofy](https://github.com/KanekiH4iSE/Agrofy)
+![live](https://img.shields.io/badge/status-live-e5243b?style=flat-square&labelColor=0b0809)
+![nasa](https://img.shields.io/badge/NASA%20Space%20Apps-2026-7a1020?style=flat-square&labelColor=0b0809)
+![lang](https://img.shields.io/badge/EN%20%2F%20DE%20%2F%20RU-7a1020?style=flat-square&labelColor=0b0809)
+
+Helps a German farmer choose a crop rotation when water gets tight. Click any field in Germany, set your priorities and an irrigation allowance, and it simulates every candidate rotation over 38 seasons of NASA climate data, then ranks them on water, soil, income and risk and says why. Built by our team at NASA Space Apps Challenge 2026. [Live demo](https://agrofy-mocha.vercel.app)
+
+`Next.js` `TypeScript` `Leaflet` `NASA POWER` `FAO-56`
+
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 
@@ -142,7 +157,7 @@ Custom CNN vs EfficientNetV2-S vs ConvNeXt-Tiny on art-style classification, exp
 
 <div align="center">
 
-![stack](https://skillicons.dev/icons?i=py,fastapi,java,spring,js,ts,react,vite,nodejs,php,mysql,postgres,docker,git,github,figma,vercel&theme=dark)
+![stack](https://skillicons.dev/icons?i=py,fastapi,java,spring,js,ts,react,nextjs,vite,nodejs,php,mysql,postgres,docker,git,github,figma,vercel&theme=dark)
 
 </div>
 
