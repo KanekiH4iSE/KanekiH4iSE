@@ -61,10 +61,4 @@
 
 <br/>
 
-<div align="center">
-
-**Tajik · Russian** (native) &nbsp;·&nbsp; **English** C1 &nbsp;·&nbsp; **German** B2 &nbsp;·&nbsp; **Turkish** A1
-
-<sub>From Khujand to Berlin, one shipped prototype at a time.</sub>
-
-</div>
+<img src="assets/v5/footer.svg" alt="Khujand to Berlin. Tajik, Russian, English, German, Turkish. KANEKI" width="100%"/>
