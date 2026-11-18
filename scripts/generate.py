@@ -9,7 +9,6 @@ SITES = [
     ("AniCase", "https://anicase-1.vercel.app"),
     ("SafePause", "https://safepause-eine-pause-bevor-das-geld.vercel.app"),
     ("Agrofy", "https://agrofy-mocha.vercel.app"),
-    ("TerraTrace", "https://terratrace-moon.streamlit.app"),
 ]
 FONT = "'JetBrains Mono','Fira Code',Consolas,'SFMono-Regular',Menlo,monospace"
 ACC, DIM, BG1, BG2 = "#e5243b", "#a39a9b", "#1a0b0d", "#0b0809"
@@ -230,7 +229,7 @@ def status():
         o.append(f'<text x="58" y="{y}" class="n">{esc(name)}</text><text x="200" y="{y}" class="u">{esc(host)}</text>')
         o.append(f'<rect x="680" y="{y-9}" width="140" height="6" rx="3" fill="{ACC}" fill-opacity=".1"/>'
                  f'<rect class="w" x="680" y="{y-9}" width="{max(6, 140*frac):.0f}" height="6" rx="3" fill="{col}"/>')
-        label = f"{code} · {ms} ms" if good and ms is not None else ("down" if not code else f"{code}")
+        label = f"{code} · {ms} ms" if good and ms is not None else ("online" if good else ("down" if not code else f"{code}"))
         o.append(f'<text x="{W-28}" y="{y}" text-anchor="end" style="fill:{col};font-size:13px">{label}</text>')
     o.append("</svg>")
     return "\n".join(o)
