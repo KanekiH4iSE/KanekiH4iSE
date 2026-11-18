@@ -18,7 +18,7 @@
 
 ## `// 01`  HIGHLIGHTS
 
-<img src="assets/stats.svg" alt="1 hackathon win, 6 hackathon builds, 3 cities, 5 languages" width="100%"/>
+<img src="assets/stats.svg" alt="1 hackathon win, 7 hackathon builds, 3 cities, 5 languages" width="100%"/>
 
 > 🏆 **Winner, EuroTech Federation × Hong Kong Talent Engage Hackathon (Munich, 2026).** Our team built **CrossLens**: alternative credit scoring for foreign SMEs that Hong Kong banks can't see. The prize: a winners' tour through **Hong Kong, Shenzhen and Guangzhou**.
 
@@ -37,6 +37,7 @@
 | Event | What we built | Outcome |
 |---|---|---|
 | **EuroTech × Hong Kong Talent Engage** | CrossLens, credit scoring for SMEs entering Hong Kong | 🏆 **Winner** (FinTech track and overall) |
+| **Space-resources hackathon, Germany (Nov 2026)** | TerraTrace, lunar water-ice prospecting and rover mission planning | Live demo, model at ROC-AUC 0.99 |
 | **NASA Space Apps Challenge 2026** | Agrofy, crop rotations compared under drought for German farms | Live demo on 38 seasons of NASA data |
 | **KI-Hackathon Energie** | Plankton PV, AI solar-planning assistant for Germany | Working demo, built overnight |
 | **telli × LiveKit Voice AI** | Quorum, a voice AI API for group conversations | Working prototype |
@@ -49,7 +50,21 @@
 <tr>
 <td colspan="2" valign="top">
 
-### 🌾 [Agrofy](https://github.com/KanekiH4iSE/Agrofy)
+### 🌑 [TerraTrace](https://terratrace-moon.streamlit.app/)
+![live](https://img.shields.io/badge/status-live-e5243b?style=flat-square&labelColor=0b0809)
+![hackathon](https://img.shields.io/badge/hackathon-Nov%202026-7a1020?style=flat-square&labelColor=0b0809)
+![auc](https://img.shields.io/badge/spatial%20CV%20ROC--AUC-0.99-7a1020?style=flat-square&labelColor=0b0809)
+
+Finds water ice at the Moon's south pole and plans how a rover gets to it. A gradient-boosted model trained on 1.9 GB of NASA Lunar Reconnaissance Orbiter and Chandrayaan-1 data maps ice probability across 80°S–90°S, ranks 12 landing sites on ice, safety, sunlight and comms, then plans an A* rover traverse that re-routes around hazards and exports a ROS 2 waypoint file. Built by our team at a hackathon in Germany. [Live demo](https://terratrace-moon.streamlit.app/)
+
+`Python` `Streamlit` `scikit-learn` `Plotly` `NASA LRO`
+
+</td>
+</tr>
+<tr>
+<td colspan="2" valign="top">
+
+### 🌾 [Agrofy](https://agrofy-mocha.vercel.app)
 ![live](https://img.shields.io/badge/status-live-e5243b?style=flat-square&labelColor=0b0809)
 ![nasa](https://img.shields.io/badge/NASA%20Space%20Apps-2026-7a1020?style=flat-square&labelColor=0b0809)
 ![lang](https://img.shields.io/badge/EN%20%2F%20DE%20%2F%20RU-7a1020?style=flat-square&labelColor=0b0809)
@@ -74,7 +89,7 @@ Online multiplayer Monopoly-style game with an original theme. Join from any dev
 </td>
 <td width="50%" valign="top">
 
-### 🎰 [AniCase](https://github.com/KanekiH4iSE/Anime)
+### 🎰 [AniCase](https://anicase-1.vercel.app)
 ![live](https://img.shields.io/badge/status-live-e5243b?style=flat-square&labelColor=0b0809)
 ![bilingual](https://img.shields.io/badge/RU%20%2F%20EN-7a1020?style=flat-square&labelColor=0b0809)
 
@@ -157,7 +172,7 @@ Custom CNN vs EfficientNetV2-S vs ConvNeXt-Tiny on art-style classification, exp
 
 <div align="center">
 
-![stack](https://skillicons.dev/icons?i=py,fastapi,java,spring,js,ts,react,nextjs,vite,nodejs,php,mysql,postgres,docker,git,github,figma,vercel&theme=dark)
+![stack](https://skillicons.dev/icons?i=py,fastapi,sklearn,java,spring,js,ts,react,nextjs,vite,nodejs,php,mysql,postgres,docker,git,github,figma,vercel&theme=dark)
 
 </div>
 
