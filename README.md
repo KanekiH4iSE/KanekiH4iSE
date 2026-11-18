@@ -34,141 +34,24 @@
 
 ## `// 03`  HACKATHONS
 
-| Event | What we built | Outcome |
-|---|---|---|
-| **EuroTech × Hong Kong Talent Engage** | CrossLens, credit scoring for SMEs entering Hong Kong | 🏆 **Winner** (FinTech track and overall) |
-| **Space-resources hackathon, Germany (Nov 2026)** | TerraTrace, lunar water-ice prospecting and rover mission planning | Live demo, model at ROC-AUC 0.99 |
-| **NASA Space Apps Challenge 2026** | Agrofy, crop rotations compared under drought for German farms | Live demo on 38 seasons of NASA data |
-| **KI-Hackathon Energie** | Plankton PV, AI solar-planning assistant for Germany | Working demo, built overnight |
-| **telli × LiveKit Voice AI** | Quorum, a voice AI API for group conversations | Working prototype |
-| **Hyperbloom UI/UX & Web Design** | SafePause, a pause before risky bank transfers | Team of 3, live site |
-| **Graphs Gone Wild (Neo4j)** | AutopsyGraph, forensics for AI agents | Built in 5.5 hours |
+<img src="assets/v5/hackathons.svg" alt="Hackathons: TerraTrace, Agrofy, AutopsyGraph, SafePause, CrossLens (winner), Plankton PV, Quorum" width="100%"/>
 
 ## `// 04`  THINGS I'VE BUILT
 
-<table>
-<tr>
-<td colspan="2" valign="top">
-
-### 🌑 [TerraTrace](https://terratrace-moon.streamlit.app/)
-![live](https://img.shields.io/badge/status-live-e5243b?style=flat-square&labelColor=0b0809)
-![hackathon](https://img.shields.io/badge/hackathon-Nov%202026-7a1020?style=flat-square&labelColor=0b0809)
-![auc](https://img.shields.io/badge/spatial%20CV%20ROC--AUC-0.99-7a1020?style=flat-square&labelColor=0b0809)
-
-Finds water ice at the Moon's south pole and plans how a rover gets to it. A gradient-boosted model trained on 1.9 GB of NASA Lunar Reconnaissance Orbiter and Chandrayaan-1 data maps ice probability across 80°S–90°S, ranks 12 landing sites on ice, safety, sunlight and comms, then plans an A* rover traverse that re-routes around hazards and exports a ROS 2 waypoint file. Built by our team at a hackathon in Germany. [Live demo](https://terratrace-moon.streamlit.app/)
-
-`Python` `Streamlit` `scikit-learn` `Plotly` `NASA LRO`
-
-</td>
-</tr>
-<tr>
-<td colspan="2" valign="top">
-
-### 🌾 [Agrofy](https://agrofy-mocha.vercel.app)
-![live](https://img.shields.io/badge/status-live-e5243b?style=flat-square&labelColor=0b0809)
-![nasa](https://img.shields.io/badge/NASA%20Space%20Apps-2026-7a1020?style=flat-square&labelColor=0b0809)
-![lang](https://img.shields.io/badge/EN%20%2F%20DE%20%2F%20RU-7a1020?style=flat-square&labelColor=0b0809)
-
-Helps a German farmer choose a crop rotation when water gets tight. Click any field in Germany, set your priorities and an irrigation allowance, and it simulates every candidate rotation over 38 seasons of NASA climate data, then ranks them on water, soil, income and risk and says why. Built by our team at NASA Space Apps Challenge 2026. [Live demo](https://agrofy-mocha.vercel.app)
-
-`Next.js` `TypeScript` `Leaflet` `NASA POWER` `FAO-56`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🎲 [Магнат](https://github.com/KanekiH4iSE/Monopoly)
-![live](https://img.shields.io/badge/status-live-e5243b?style=flat-square&labelColor=0b0809)
-![multiplayer](https://img.shields.io/badge/real--time-multiplayer-7a1020?style=flat-square&labelColor=0b0809)
-
-Online multiplayer Monopoly-style game with an original theme. Join from any device. Deployed on Render and played by friends.
-
-`Node.js` `WebSockets` `Render`
-
-</td>
-<td width="50%" valign="top">
-
-### 🎰 [AniCase](https://anicase-1.vercel.app)
-![live](https://img.shields.io/badge/status-live-e5243b?style=flat-square&labelColor=0b0809)
-![bilingual](https://img.shields.io/badge/RU%20%2F%20EN-7a1020?style=flat-square&labelColor=0b0809)
-
-CS-style case roulette that picks what anime to watch: every spin eliminates one title. List import from Shikimori, AniList and MAL, plus a rematch slot.
-
-`JavaScript` `Vercel`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### ⏸️ [SafePause](https://github.com/KanekiH4iSE/Ausl-nder-Team)
-![hackathon](https://img.shields.io/badge/hackathon-team%20of%203-7a1020?style=flat-square&labelColor=0b0809)
-![live](https://img.shields.io/badge/status-live-e5243b?style=flat-square&labelColor=0b0809)
-
-Friction as a feature: a fintech app that makes you stop before an impulsive or scam-driven transfer. My part: research and frontend, Figma design plus the adaptive coded version.
-
-`Figma` `React` `Vercel`
-
-</td>
-<td width="50%" valign="top">
-
-### 🔬 [AutopsyGraph](https://github.com/KanekiH4iSE/autopsygraph)
-![hackathon](https://img.shields.io/badge/hackathon-5.5h-7a1020?style=flat-square&labelColor=0b0809)
-
-Records another AI agent's runs as a knowledge graph in Neo4j and explains *why* it failed. Built at the Graphs Gone Wild hackathon.
-
-`Python` `FastAPI` `Neo4j` `MCP`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🎙️ Quorum
-![hackathon](https://img.shields.io/badge/hackathon-voice%20AI-7a1020?style=flat-square&labelColor=0b0809)
-
-Multi-speaker group voice AI API: an agent that follows a conversation with several people at once. Built at the telli × LiveKit hackathon.
-
-`LiveKit` `Deepgram` `Cartesia` `Claude`
-
-</td>
-<td width="50%" valign="top">
-
-### 🛰️ [Last Orbit](https://github.com/KanekiH4iSE/last-orbit)
-![course](https://img.shields.io/badge/UX-iterated-7a1020?style=flat-square&labelColor=0b0809)
-
-Browser survival game, built as a personal product and pushed through heuristic evaluation and redesign.
-
-`JavaScript` `UX`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🏦 Taler
-![team](https://img.shields.io/badge/Scrum-team%20project-7a1020?style=flat-square&labelColor=0b0809)
-
-PHP/MySQL banking admin system: atomic transfers, statements, legacy CSV import. I found Jira tickets marked "Done" with no code behind them and implemented them.
-
-`PHP` `PDO` `MySQL`
-
-</td>
-<td width="50%" valign="top">
-
-### 🖼️ WikiArt Style Classifier
-![research](https://img.shields.io/badge/ML-explainable-7a1020?style=flat-square&labelColor=0b0809)
-
-Custom CNN vs EfficientNetV2-S vs ConvNeXt-Tiny on art-style classification, explained with Grad-CAM and SHAP.
-
-`Python` `PyTorch` `Kaggle`
-
-</td>
-</tr>
-</table>
+<p align="center">
+<a href="https://terratrace-moon.streamlit.app/"><img src="assets/v5/card-terratrace.svg" alt="TerraTrace" width="49%"/></a>
+<img src="assets/v5/card-crosslens.svg" alt="CrossLens" width="49%"/>
+<a href="https://agrofy-mocha.vercel.app"><img src="assets/v5/card-agrofy.svg" alt="Agrofy" width="49%"/></a>
+<a href="https://github.com/KanekiH4iSE/autopsygraph"><img src="assets/v5/card-autopsygraph.svg" alt="AutopsyGraph" width="49%"/></a>
+<a href="https://github.com/KanekiH4iSE/Monopoly"><img src="assets/v5/card-magnat.svg" alt="Магнат" width="49%"/></a>
+<a href="https://github.com/KanekiH4iSE/Ausl-nder-Team"><img src="assets/v5/card-safepause.svg" alt="SafePause" width="49%"/></a>
+<img src="assets/v5/card-quorum.svg" alt="Quorum" width="49%"/>
+<a href="https://anicase-1.vercel.app"><img src="assets/v5/card-anicase.svg" alt="AniCase" width="49%"/></a>
+</p>
 
 ## `// 05`  STACK
+
+<img src="assets/v5/marquee.svg" alt="Stack" width="100%"/>
 
 <div align="center">
 
