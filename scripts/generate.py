@@ -9,6 +9,7 @@ SITES = [
     ("AniCase", "https://anicase-1.vercel.app"),
     ("SafePause", "https://safepause-eine-pause-bevor-das-geld.vercel.app"),
     ("Agrofy", "https://agrofy-mocha.vercel.app"),
+    ("TerraTrace", "https://terratrace-moon.streamlit.app"),
 ]
 FONT = "'JetBrains Mono','Fira Code',Consolas,'SFMono-Regular',Menlo,monospace"
 ACC, DIM, BG1, BG2 = "#e5243b", "#a39a9b", "#1a0b0d", "#0b0809"
