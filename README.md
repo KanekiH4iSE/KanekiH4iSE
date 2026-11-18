@@ -53,24 +53,11 @@
 
 <img src="assets/v5/marquee.svg" alt="Stack" width="100%"/>
 
-<div align="center">
+<img src="assets/stack.svg" alt="Stack: backend, AI and data, frontend, ship and secure" width="100%"/>
 
-![stack](https://skillicons.dev/icons?i=py,fastapi,sklearn,java,spring,js,ts,react,nextjs,vite,nodejs,php,mysql,postgres,docker,git,github,figma,vercel&theme=dark)
+## `// 06`  NOW
 
-</div>
-
-## `// 06`  CURRENTLY
-
-- 🔎 Looking for a **Werkstudent or internship** (Backend / Python / Java / AI), Berlin or remote
-- 🧪 Exploring how to debug AI agents: [AutopsyGraph](https://github.com/KanekiH4iSE/autopsygraph)
-- 🎲 Keeping [Магнат](https://github.com/KanekiH4iSE/Monopoly) alive and fun
-
-## `// 07`  WHAT I CARE ABOUT
-
-- **Security, first-hand.** I've taken apart the MOVEit breach, compared TLS 1.3, Signal and AWS SigV4, and broken OWASP Juice Shop on purpose.
-- **AI as a power tool, not a crutch.** Agents help me move fast; I still read every diff.
-- **A live URL beats a perfect slide.** Everything with a live dot above is running right now.
-- **Design with taste.** Dark, calm, intentional. If it looks like a template, I redo it.
+<img src="assets/now.svg" alt="Now: looking for a Werkstudent role or internship; what I care about" width="100%"/>
 
 <br/>
 
