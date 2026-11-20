@@ -3,7 +3,7 @@
 <style>text{font-family:'JetBrains Mono','Fira Code',Consolas,'SFMono-Regular',Menlo,monospace;font-size:12px;fill:#a39a9b}.h{fill:#e5243b;font-weight:700;font-size:13px}.b{transform-box:fill-box;transform-origin:50% 100%;animation:g .9s cubic-bezier(.2,.8,.2,1) both}@keyframes g{from{transform:scaleY(0)}to{transform:scaleY(1)}}</style>
 <rect x="1" y="1" width="1178" height="298" rx="14" fill="url(#bg)" stroke="#e5243b" stroke-opacity=".28"/>
 <text x="28" y="34">// contribution skyline</text>
-<text x="1152" y="34" text-anchor="end" class="h">135 contributions in the last year</text>
+<text x="1152" y="34" text-anchor="end" class="h">145 contributions in the last year</text>
 <path d="M1065 204h14l6 -7h-14z" fill="#e5243b" fill-opacity=".07"/>
 <g class="b" style="animation-delay:1.08s"><path d="M1046 204v-38.8l6 -7v38.8z" fill="rgb(74,8,16)"/><path d="M1046 165.2h14l6 -7h-14z" fill="rgb(228,132,139)"/><rect x="1046" y="165.2" width="14" height="38.8" fill="rgb(142,20,34)"/></g>
 <path d="M1027 204h14l6 -7h-14z" fill="#e5243b" fill-opacity=".07"/>
@@ -56,7 +56,7 @@
 <path d="M134 204h14l6 -7h-14z" fill="#e5243b" fill-opacity=".07"/>
 <path d="M115 204h14l6 -7h-14z" fill="#e5243b" fill-opacity=".07"/>
 <path d="M96 204h14l6 -7h-14z" fill="#e5243b" fill-opacity=".07"/>
-<path d="M1078 211h14l6 -7h-14z" fill="#e5243b" fill-opacity=".07"/>
+<g class="b" style="animation-delay:1.09s"><path d="M1078 211v-59.9l6 -7v59.9z" fill="rgb(84,8,18)"/><path d="M1078 151.1h14l6 -7h-14z" fill="rgb(232,155,160)"/><rect x="1078" y="151.1" width="14" height="59.9" fill="rgb(165,24,40)"/></g>
 <path d="M1059 211h14l6 -7h-14z" fill="#e5243b" fill-opacity=".07"/>
 <path d="M1040 211h14l6 -7h-14z" fill="#e5243b" fill-opacity=".07"/>
 <g class="b" style="animation-delay:1.03s"><path d="M1021 211v-47.7l6 -7v47.7z" fill="rgb(78,8,16)"/><path d="M1021 163.3h14l6 -7h-14z" fill="rgb(230,142,147)"/><rect x="1021" y="163.3" width="14" height="47.7" fill="rgb(151,21,37)"/></g>
