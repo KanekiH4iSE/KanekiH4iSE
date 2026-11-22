@@ -3,7 +3,7 @@
 <style>text{font-family:'JetBrains Mono','Fira Code',Consolas,'SFMono-Regular',Menlo,monospace;font-size:12px;fill:#a39a9b}.h{fill:#e5243b;font-weight:700;font-size:13px}.b{transform-box:fill-box;transform-origin:50% 100%;animation:g .9s cubic-bezier(.2,.8,.2,1) both}@keyframes g{from{transform:scaleY(0)}to{transform:scaleY(1)}}</style>
 <rect x="1" y="1" width="1178" height="298" rx="14" fill="url(#bg)" stroke="#e5243b" stroke-opacity=".28"/>
 <text x="28" y="34">// contribution skyline</text>
-<text x="1152" y="34" text-anchor="end" class="h">156 contributions in the last year</text>
+<text x="1152" y="34" text-anchor="end" class="h">161 contributions in the last year</text>
 <g class="b" style="animation-delay:1.10s"><path d="M1065 204v-63.7l6 -7v63.7z" fill="rgb(86,8,18)"/><path d="M1065 140.3h14l6 -7h-14z" fill="rgb(233,160,164)"/><rect x="1065" y="140.3" width="14" height="63.7" fill="rgb(169,25,42)"/></g>
 <path d="M1046 204h14l6 -7h-14z" fill="#e5243b" fill-opacity=".07"/>
 <g class="b" style="animation-delay:1.06s"><path d="M1027 204v-38.8l6 -7v38.8z" fill="rgb(74,8,16)"/><path d="M1027 165.2h14l6 -7h-14z" fill="rgb(228,132,139)"/><rect x="1027" y="165.2" width="14" height="38.8" fill="rgb(142,20,34)"/></g>
@@ -316,7 +316,7 @@
 <path d="M104 239h14l6 -7h-14z" fill="#e5243b" fill-opacity=".07"/>
 <path d="M85 239h14l6 -7h-14z" fill="#e5243b" fill-opacity=".07"/>
 <path d="M66 239h14l6 -7h-14z" fill="#e5243b" fill-opacity=".07"/>
-<path d="M1048 246h14l6 -7h-14z" fill="#e5243b" fill-opacity=".07"/>
+<g class="b" style="animation-delay:0.94s"><path d="M1048 246v-38.8l6 -7v38.8z" fill="rgb(74,8,16)"/><path d="M1048 207.2h14l6 -7h-14z" fill="rgb(228,132,139)"/><rect x="1048" y="207.2" width="14" height="38.8" fill="rgb(142,20,34)"/></g>
 <path d="M1029 246h14l6 -7h-14z" fill="#e5243b" fill-opacity=".07"/>
 <g class="b" style="animation-delay:0.90s"><path d="M1010 246v-29.0l6 -7v29.0z" fill="rgb(70,8,15)"/><path d="M1010 217.0h14l6 -7h-14z" fill="rgb(227,123,130)"/><rect x="1010" y="217.0" width="14" height="29.0" fill="rgb(133,18,31)"/></g>
 <path d="M991 246h14l6 -7h-14z" fill="#e5243b" fill-opacity=".07"/>
