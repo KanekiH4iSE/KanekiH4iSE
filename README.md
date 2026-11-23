@@ -20,7 +20,7 @@
 
 <img src="assets/v5/crawl-a.svg" alt="" width="100%"/>
 
-<img src="assets/stats.svg" alt="1 hackathon win, 7 hackathon builds, 3 cities, 5 languages" width="100%"/>
+<img src="assets/stats.svg" alt="1 hackathon win, 8 hackathon builds, 3 cities, 5 languages" width="100%"/>
 
 > 🏆 **Winner, EuroTech Federation × Hong Kong Talent Engage Hackathon (Munich, 2026).** Our team built **CrossLens**: alternative credit scoring for foreign SMEs that Hong Kong banks can't see. The prize: a winners' tour through **Hong Kong, Shenzhen and Guangzhou**.
 
@@ -40,13 +40,14 @@
 
 <img src="assets/v5/crawl-a.svg" alt="" width="100%"/>
 
-<img src="assets/v5/hackathons.svg" alt="Hackathons: TerraTrace, Agrofy, AutopsyGraph, SafePause, CrossLens (winner), Plankton PV, Quorum" width="100%"/>
+<img src="assets/v5/hackathons.svg" alt="Hackathons: DreamHands, TerraTrace, Agrofy, AutopsyGraph, SafePause, CrossLens (winner), Plankton PV, Quorum" width="100%"/>
 
 ## `// 04`  THINGS I'VE BUILT
 
 <img src="assets/v5/crawl-b.svg" alt="" width="100%"/>
 
 <p align="center">
+<a href="https://github.com/Owsper/TeleopClaw"><img src="assets/v5/card-dreamhands.svg" alt="DreamHands" width="49%"/></a>
 <a href="https://terratrace-moon.streamlit.app/"><img src="assets/v5/card-terratrace.svg" alt="TerraTrace" width="49%"/></a>
 <img src="assets/v5/card-crosslens.svg" alt="CrossLens" width="49%"/>
 <a href="https://agrofy-mocha.vercel.app"><img src="assets/v5/card-agrofy.svg" alt="Agrofy" width="49%"/></a>
