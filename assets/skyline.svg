@@ -3,7 +3,7 @@
 <style>text{font-family:'JetBrains Mono','Fira Code',Consolas,'SFMono-Regular',Menlo,monospace;font-size:12px;fill:#a39a9b}.h{fill:#e5243b;font-weight:700;font-size:13px}.b{transform-box:fill-box;transform-origin:50% 100%;animation:g .9s cubic-bezier(.2,.8,.2,1) both}@keyframes g{from{transform:scaleY(0)}to{transform:scaleY(1)}}</style>
 <rect x="1" y="1" width="1178" height="298" rx="14" fill="url(#bg)" stroke="#e5243b" stroke-opacity=".28"/>
 <text x="28" y="34">// contribution skyline</text>
-<text x="1152" y="34" text-anchor="end" class="h">161 contributions in the last year</text>
+<text x="1152" y="34" text-anchor="end" class="h">165 contributions in the last year</text>
 <g class="b" style="animation-delay:1.10s"><path d="M1065 204v-63.7l6 -7v63.7z" fill="rgb(86,8,18)"/><path d="M1065 140.3h14l6 -7h-14z" fill="rgb(233,160,164)"/><rect x="1065" y="140.3" width="14" height="63.7" fill="rgb(169,25,42)"/></g>
 <path d="M1046 204h14l6 -7h-14z" fill="#e5243b" fill-opacity=".07"/>
 <g class="b" style="animation-delay:1.06s"><path d="M1027 204v-38.8l6 -7v38.8z" fill="rgb(74,8,16)"/><path d="M1027 165.2h14l6 -7h-14z" fill="rgb(228,132,139)"/><rect x="1027" y="165.2" width="14" height="38.8" fill="rgb(142,20,34)"/></g>
@@ -264,7 +264,7 @@
 <path d="M110 232h14l6 -7h-14z" fill="#e5243b" fill-opacity=".07"/>
 <path d="M91 232h14l6 -7h-14z" fill="#e5243b" fill-opacity=".07"/>
 <path d="M72 232h14l6 -7h-14z" fill="#e5243b" fill-opacity=".07"/>
-<path d="M1054 239h14l6 -7h-14z" fill="#e5243b" fill-opacity=".07"/>
+<g class="b" style="animation-delay:0.97s"><path d="M1054 239v-34.1l6 -7v34.1z" fill="rgb(72,8,15)"/><path d="M1054 204.9h14l6 -7h-14z" fill="rgb(228,128,135)"/><rect x="1054" y="204.9" width="14" height="34.1" fill="rgb(138,19,33)"/></g>
 <g class="b" style="animation-delay:0.95s"><path d="M1035 239v-38.8l6 -7v38.8z" fill="rgb(74,8,16)"/><path d="M1035 200.2h14l6 -7h-14z" fill="rgb(228,132,139)"/><rect x="1035" y="200.2" width="14" height="38.8" fill="rgb(142,20,34)"/></g>
 <g class="b" style="animation-delay:0.93s"><path d="M1016 239v-34.1l6 -7v34.1z" fill="rgb(72,8,15)"/><path d="M1016 204.9h14l6 -7h-14z" fill="rgb(228,128,135)"/><rect x="1016" y="204.9" width="14" height="34.1" fill="rgb(138,19,33)"/></g>
 <g class="b" style="animation-delay:0.91s"><path d="M997 239v-34.1l6 -7v34.1z" fill="rgb(72,8,15)"/><path d="M997 204.9h14l6 -7h-14z" fill="rgb(228,128,135)"/><rect x="997" y="204.9" width="14" height="34.1" fill="rgb(138,19,33)"/></g>

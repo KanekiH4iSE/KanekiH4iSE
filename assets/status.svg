@@ -3,24 +3,24 @@
 <style>text{font-family:'JetBrains Mono','Fira Code',Consolas,'SFMono-Regular',Menlo,monospace;font-size:14px}.d{fill:#a39a9b;font-size:12px}.n{fill:#f4f1f1;font-weight:700}.u{fill:#a39a9b;font-size:13px}.p{animation:p 1.8s ease-in-out infinite}@keyframes p{0%{r:5;opacity:.7}70%{r:11;opacity:0}100%{r:11;opacity:0}}.w{transform-box:fill-box;transform-origin:0 50%;animation:w 1.2s ease-out both}@keyframes w{from{transform:scaleX(0)}}</style>
 <rect x="1" y="1" width="998" height="298" rx="14" fill="url(#bg)" stroke="#e5243b" stroke-opacity=".28"/>
 <text x="28" y="34" class="d">// live status of what i shipped</text>
-<text x="972" y="34" text-anchor="end" class="d">checked 23 Nov 07:45 UTC</text>
+<text x="972" y="34" text-anchor="end" class="d">checked 23 Nov 23:57 UTC</text>
 <text x="28" y="56" style="fill:#f4f1f1;font-weight:700">all systems operational</text>
 <circle cx="38" cy="87" r="5" fill="#f4f1f1"/><circle class="p" cx="38" cy="87" r="5" fill="none" stroke="#f4f1f1"/>
 <text x="58" y="92" class="n">Магнат</text><text x="200" y="92" class="u">monopoly-oeep.onrender.com</text>
-<rect x="680" y="83" width="140" height="6" rx="3" fill="#e5243b" fill-opacity=".1"/><rect class="w" x="680" y="83" width="6" height="6" rx="3" fill="#f4f1f1"/>
-<text x="972" y="92" text-anchor="end" style="fill:#f4f1f1;font-size:13px">200 · 68 ms</text>
+<rect x="680" y="83" width="140" height="6" rx="3" fill="#e5243b" fill-opacity=".1"/><rect class="w" x="680" y="83" width="36" height="6" rx="3" fill="#f4f1f1"/>
+<text x="972" y="92" text-anchor="end" style="fill:#f4f1f1;font-size:13px">200 · 381 ms</text>
 <circle cx="38" cy="131" r="5" fill="#f4f1f1"/><circle class="p" cx="38" cy="131" r="5" fill="none" stroke="#f4f1f1"/>
 <text x="58" y="136" class="n">AniCase</text><text x="200" y="136" class="u">anicase-1.vercel.app</text>
-<rect x="680" y="127" width="140" height="6" rx="3" fill="#e5243b" fill-opacity=".1"/><rect class="w" x="680" y="127" width="18" height="6" rx="3" fill="#f4f1f1"/>
-<text x="972" y="136" text-anchor="end" style="fill:#f4f1f1;font-size:13px">200 · 195 ms</text>
+<rect x="680" y="127" width="140" height="6" rx="3" fill="#e5243b" fill-opacity=".1"/><rect class="w" x="680" y="127" width="8" height="6" rx="3" fill="#f4f1f1"/>
+<text x="972" y="136" text-anchor="end" style="fill:#f4f1f1;font-size:13px">200 · 89 ms</text>
 <circle cx="38" cy="175" r="5" fill="#f4f1f1"/><circle class="p" cx="38" cy="175" r="5" fill="none" stroke="#f4f1f1"/>
 <text x="58" y="180" class="n">SafePause</text><text x="200" y="180" class="u">safepause-eine-pause-bevor-das-geld.vercel.app</text>
-<rect x="680" y="171" width="140" height="6" rx="3" fill="#e5243b" fill-opacity=".1"/><rect class="w" x="680" y="171" width="13" height="6" rx="3" fill="#f4f1f1"/>
-<text x="972" y="180" text-anchor="end" style="fill:#f4f1f1;font-size:13px">200 · 135 ms</text>
+<rect x="680" y="171" width="140" height="6" rx="3" fill="#e5243b" fill-opacity=".1"/><rect class="w" x="680" y="171" width="8" height="6" rx="3" fill="#f4f1f1"/>
+<text x="972" y="180" text-anchor="end" style="fill:#f4f1f1;font-size:13px">200 · 90 ms</text>
 <circle cx="38" cy="219" r="5" fill="#f4f1f1"/><circle class="p" cx="38" cy="219" r="5" fill="none" stroke="#f4f1f1"/>
 <text x="58" y="224" class="n">Agrofy</text><text x="200" y="224" class="u">agrofy-mocha.vercel.app</text>
-<rect x="680" y="215" width="140" height="6" rx="3" fill="#e5243b" fill-opacity=".1"/><rect class="w" x="680" y="215" width="6" height="6" rx="3" fill="#f4f1f1"/>
-<text x="972" y="224" text-anchor="end" style="fill:#f4f1f1;font-size:13px">200 · 60 ms</text>
+<rect x="680" y="215" width="140" height="6" rx="3" fill="#e5243b" fill-opacity=".1"/><rect class="w" x="680" y="215" width="11" height="6" rx="3" fill="#f4f1f1"/>
+<text x="972" y="224" text-anchor="end" style="fill:#f4f1f1;font-size:13px">200 · 120 ms</text>
 <circle cx="38" cy="263" r="5" fill="#f4f1f1"/><circle class="p" cx="38" cy="263" r="5" fill="none" stroke="#f4f1f1"/>
 <text x="58" y="268" class="n">TerraTrace</text><text x="200" y="268" class="u">terratrace-moon.streamlit.app</text>
 <rect x="680" y="259" width="140" height="6" rx="3" fill="#e5243b" fill-opacity=".1"/><rect class="w" x="680" y="259" width="6" height="6" rx="3" fill="#f4f1f1"/>
